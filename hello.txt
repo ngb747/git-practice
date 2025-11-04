@@ -1,2 +1,3 @@
 Hello Git!
 Line added to test pushing and pulling
+Line added directly on GitHub
